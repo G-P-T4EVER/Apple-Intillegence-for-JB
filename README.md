@@ -1,3 +1,7 @@
-# Apple Intelligence Repo with Release.txt workaround
+# Apple Intelligence Repo for Jailbroken iOS
 
-This version uses Release.txt and Packages.txt so Sileo can load it from GitHub Pages.
+Add this source to Sileo:
+
+```
+https://g-p-t4ever.github.io/Apple-Intillegence-for-JB/repo/
+```

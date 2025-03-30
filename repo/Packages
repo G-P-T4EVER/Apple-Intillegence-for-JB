@@ -1,0 +1,14 @@
+Package: com.timdev.appleintelligence
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: Tim Dev
+Filename: /mnt/data/appleintelligence-apt-structured/repo/debs/appleintelligence-v4.deb
+Size: 1760
+MD5sum: 3cab1ab8cbc2216d5882bac1592cd538
+SHA1: 8321aa3dde15c46778559792aa798285b8e1cf6c
+SHA256: f5315ead736ac5ba15fb5542f9852e69abd66351e46e4ce7f3e52c194aa8477e
+Section: Tweaks
+Description: Fake Apple Intelligence for iOS - with Settings integration, UI, CLI, and Siri stub.
+Author: Timofey
+Name: Apple Intelligence (Full Experience with Settings)
+
